@@ -21,7 +21,7 @@ void main()async{
     600: Color(0xffff6633),
     700: Color(0xffff6633),
     800: Color(0xffff6633),
-    900: Color(0xffff6633),
+    900: Color(0xffff6633),//https://github.com/Marwansalem122/login-signup-firebase.git
   });
    WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
   FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
